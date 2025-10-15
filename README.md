@@ -13,24 +13,23 @@
   </a>
 </div>
 
-###
+<h1 align="center">Hello!, I'm Bruno</h1>
+<h3 align="center">A developer from Brazil</h3>
 
-<h1 align="center">Olá! 👋</h1>
+- 🌱 Education: **BCs Computer Science**
 
-###
+- 💬 Main Subject: **Mobile Development**
 
-<h3 align="left">👨🏻‍💻 Sou Bruno</h3>
+- 📫 E-mail: **blokchin@gmail.com**
 
-###
+<br>
+<br>
 
-<p align="left">- 🔭 Desenvolvedor Mobile<br>- 📚 Formando em Ciência da Computação<br>- ⚡ Desenvolvedor  e entusiasta da tecnologia</p>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokchin/lokchin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokchin/lokchin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lokchin/lokchin/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokchin&show_icons=true&locale=en&layout=compact" alt="lokchin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokchin&show_icons=true&locale=en" alt="lokchin" /></p>
+
+
